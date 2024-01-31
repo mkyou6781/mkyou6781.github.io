@@ -1,6 +1,6 @@
 # Makoto Ueki
 <figure>
-  <img src="./bYHkTZ6.jpeg" alt="my photo" class="bg-primary mb-1" width="20px">
+  <img src="./bYHkTZ6.jpeg" alt="my photo" class="bg-primary mb-1" width="100px">
 </figure>
 
 ## Master's student 
