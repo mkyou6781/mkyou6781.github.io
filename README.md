@@ -4,7 +4,12 @@
 </figure>
 
 ## Master's student 
-MSc in Mathematical modelling and scientific computing at University of Oxford
+MSc in Mathematical modelling and scientific computing at the University of Oxford
+
+## About
+I am a master's student studying mathematical modelling (modelling complicated phenomena with simple mathematics) and scientific computing (numerically analysing differential equations) at the University of Oxford with a background in Physics at the University of Cambridge. I am particularly interested in statistical physics, soft condensed matter and fluid dynamics. I am passionate about discovering the mysteries of biological pattern formation with physics and mathematical modelling. The topics of interest are phase separation, statistical physics of biological system and mechano-chemical feedback.
+
+I have a strong background in scientific computing and fluid dynamics. As for scientific computing, I have conducted two summer internships involving computing in Python: simulating the Darwinian evolution of simple chemical networks at Furusawa lab and developing computational tool to estimate ecosystem function at Sony Computer Science Laboratory. I have been further enhancing my skills in my master's course. As for fluid dynamics, I have done three projects: a literature review project about canopy wave, particularly on the interaction between fluid instability and harmonic oscillators, a summer project about the acoustic property of porous material and a mini-project about microswimmer in the master's course.
 
 ## Education
 
@@ -12,6 +17,9 @@ MSc in Mathematical modelling and scientific computing at University of Oxford
     * Msc in Mathematical Modelling and Scientific Computing
 * University of Cambridge
     * BA (Honours) Natural Sciences (Physical)
+    * Third Year: Physics (Second class division 1)
+    * Second Year: Physics A, Physics B and Mathematics (All first class honours)
+    * First Year: Physics, Mathematics, Chemistry, Evolution and Behaviour
 
 ## INTERNSHIPS/ WORK EXPERIENCE
 
