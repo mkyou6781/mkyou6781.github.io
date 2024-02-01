@@ -25,8 +25,7 @@ I have a strong background in scientific computing and fluid dynamics. As for sc
 
 * Internship at Multifunctional Materials Design research group, Aalto University (Helsinki, Finland) July 2023 - September 2023
 
-I researched hierarchically porous biomaterial-based acoustic absorbents. I studied the sound absorption of
-pectin cryogels by integrating simple modelling of the material and computational fluid dynamics simulation with Comsol Multiphysics and image processing with ImageJ. I presented my work as a poster in the symposium on the Acoustics of Poro-Elastic Materials 2023.
+I studied the sound absorption of pectin cryogels by integrating simple modelling of the material and computational fluid dynamics simulation with Comsol Multiphysics and image processing with ImageJ. I presented my work as a poster in the symposium on the Acoustics of Poro-Elastic Materials 2023.
 
 * Internship at Sony Computer Science Laboratory (Tokyo, Japan) July 2022 - September 2022
 
