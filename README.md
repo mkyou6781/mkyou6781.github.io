@@ -40,22 +40,22 @@ I simulated the Darwinian evolution of simple chemical reaction networks by impl
 
 ## AWARDS
 * Best Presentation award 
-- Keio Astrobiology Camp (Online, Japan) March 2021
+  * Keio Astrobiology Camp (Online, Japan) March 2021
 
 As group leader, I led my team to achieve first place, presenting on the potential structure of life forms on Titan
 
 * Yanai Scholarship
-- Yanai Tadashi foundation (Japan) Oct 2020-June 2023 
+  * Yanai Tadashi foundation (Japan) Oct 2020-June 2023 
 
 Merit-based scholarship covering up to £65,000 annually
 
 * Foundation scholarship
-- Queens College, University of Cambridge June 2022 
+  * Queens College, University of Cambridge June 2022 
 
 Scholarship awarded based on achieving a first class grade in my second year of undergraduate studies
 
 * Top 8 in the experiment exam
-- First round in Japanese Physics Olympiad 2018 (Japan) Aug 2018
+  * First round in Japanese Physics Olympiad 2018 (Japan) Aug 2018
 
 ## VOLUNTEERING AND EXTRACURRICULARS
 
